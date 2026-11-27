@@ -1,0 +1,6 @@
+{
+  "name": "IsoFace SVG",
+  "description": "Reconstructor 2D de contornos SVG de la cara frontal de logos extruidos en vista isométrica usando OpenCV.js en el navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
